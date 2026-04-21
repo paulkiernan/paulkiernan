@@ -2,10 +2,9 @@
 
 I'm Paul Kiernan, a Backend and Systems Engineer based out of California.
 
-- 🔭 I’m currently working on the Search Platform for [reddit.com](https://www.reddit.com/)
-- 🌱 I’m currently learning about Lucene.
-- 👯 I’m looking to collaborate on IoT meshes, lighting projects, and interactive art
-- 🤔 I’m looking for help improving [Reddit Search](https://www.reddit.com/)
+- 🔭 I built the search indexing platform at [reddit.com](https://www.reddit.com/) — thinking hard about relevance, scale, and what it means for hundreds of millions of people to find what they're looking for. I also built the Kafka systems that teams all across the org depend on.
+- 🌱 Most recently I built the backend for [PhaseLab](https://www.phase.law/), a privacy-tech startup that uses AI to automate document review and redaction — cutting weeks of compliance work down to minutes
+- 👯 I'm looking to collaborate on IoT meshes, lighting projects, and interactive art
 - 💬 Ask me about my
     * [favourite subreddit](https://www.reddit.com/r/MasterReturns/)
     * [DIY microprocessor platform](https://www.pjrc.com/store/teensy41.html)
