@@ -8,8 +8,7 @@
 
 **[Reddit](https://www.reddit.com/)**
 
-- Built the search indexing platform
-- Built the data platform mesh
+- Built the Search Indexing platform
 - Built the Kafka event streaming systems that teams across the org came to depend on
 - Half a billion people looking for something; turns out that's a fun problem
 
