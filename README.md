@@ -6,9 +6,18 @@
 
 ### What I've built
 
-**[Reddit](https://www.reddit.com/)** Built the search indexing platform, the data platform mesh, and the Kafka event streaming systems that teams across the org came to depend on. Half a billion people looking for something; turns out that's a fun problem.
+**[Reddit](https://www.reddit.com/)**
 
-**[PhaseLab](https://www.phase.law/)** Built the backend for an AI platform that automates document review and redaction, turning weeks of compliance drudgery into minutes. Privacy infrastructure for people who'd rather not think about privacy infrastructure.
+- Built the search indexing platform
+- Built the data platform mesh
+- Built the Kafka event streaming systems that teams across the org came to depend on
+- Half a billion people looking for something; turns out that's a fun problem
+
+**[Phaselaw](https://www.phase.law/)**
+
+- Built the backend for an AI platform that automates document review and redaction
+- Turned weeks of compliance drudgery into minutes
+- Privacy infrastructure for people who'd rather not think about privacy infrastructure
 
 ---
 
