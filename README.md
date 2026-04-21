@@ -1,5 +1,3 @@
-# Paul Kiernan
-
 *A backend and systems engineer in California who builds the infrastructure underneath things. The part nobody sees until it breaks, and my job is to make sure it doesn't.*
 
 ---
