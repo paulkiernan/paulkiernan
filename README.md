@@ -23,8 +23,8 @@
 I grew up on a farm staring at the stars, which probably explains the rest of this.
 
 - Helped design the flight computer for a [nanosatellite to stare at my favourite colour](https://space.skyrocket.de/doc_sdat/violet.htm)
-- Build things with [Teensy microcontrollers](https://www.pjrc.com/store/teensy41.html)
-- Collaborate on IoT meshes, lighting rigs, and interactive art
+- Built things with [Teensy microcontrollers](https://www.pjrc.com/store/teensy41.html)
+- Collaborated on interactive art, lighting rigs, and IoT meshes
 - [That thing](https://www.instagram.com/p/B2stxHCj7A-/?utm_source=ig_web_copy_link) [I built](https://www.instagram.com/p/Bu4c2Nhn1WD/?hl=en) for [that thing in the desert](https://www.instagram.com/p/Cigo_l6roB7/?hl=en) is a recurring habit
 - My [favourite subreddit](https://www.reddit.com/r/MasterReturns/) will make you cry
 
